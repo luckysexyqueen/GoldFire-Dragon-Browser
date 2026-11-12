@@ -18,7 +18,6 @@ public/vendor/
 .env.*
 !.env.example
 env
-.integration-originals/
 
 # Editor directories and files
 .vscode/*
